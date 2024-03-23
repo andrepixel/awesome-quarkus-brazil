@@ -1,1 +1,1 @@
-[](https://github.com/andrepixel/awesome-quarkus-brazil/blob/main/QUARKUS_REPO.png)
+![Awesome-Quarkus-Brazil-Logo]([image.jpg](https://github.com/andrepixel/awesome-quarkus-brazil/blob/main/QUARKUS_REPO.png)https://github.com/andrepixel/awesome-quarkus-brazil/blob/main/QUARKUS_REPO.png)
