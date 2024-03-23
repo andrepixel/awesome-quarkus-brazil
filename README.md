@@ -1,8 +1,8 @@
 ![Awesome-Quarkus-Brazil-Logo](https://github.com/andrepixel/awesome-quarkus-brazil/blob/main/QUARKUS_REPO.png)
 
-> Seja bem vindo ao repositório coloborativo de conteúdo sobre Quarkus em português! &1F601
+> Seja bem vindo ao repositório coloborativo de conteúdo sobre Quarkus em português! :smirk:
 
-> Sinta-se a vontade em querer coloborar abrindo um PR com um conteúdo novo! &#128540
+> Sinta-se a vontade em querer coloborar abrindo um PR com um conteúdo novo! :stuck_out_tongue_winking_eye:
 
 
 ## Repositórios
@@ -15,8 +15,8 @@
 
 ## Canais no Youtube
 
- * [elder-moraes](https://www.youtube.com/@eldermoraes)
- * [sou-java](https://www.youtube.com/@SouJava)
+ * [Elder Moraes](https://www.youtube.com/@eldermoraes)
+ * [SouJava](https://www.youtube.com/@SouJava)
 
 ## Palestras 
 
@@ -24,6 +24,6 @@
 
 ## Comunidades
 
-  * [quarkus-club](https://discord.gg/4F6Q4R6d)
-  * [sou-java](https://discord.gg/gzcVmv9x)
+  * [Quarkus Club](https://discord.gg/4F6Q4R6d)
+  * [SouJava](https://discord.gg/gzcVmv9x)
 
