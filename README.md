@@ -6,19 +6,17 @@
 
 > Esse repositório tem como objetivo entregar conteúdos gratuitos sobre Quarkus! :heart:
 
+## Documentação
+
+  * [Documentação Quarkus PT-BR](https://pt.quarkus.io/): Documentação oficial do framework Quarkus em português mantido pela comunidade Brasileira.
 
 ## Repositórios
 
   * [Repositório documentação do Quarkus PT-BR](https://github.com/quarkusio/pt.quarkus.io): Repositório oficial da documentação do framework Quarkus em português mantido pela comunidade Brasileira.
 
-## Documentação
-
-  * [Documentação Quarkus PT-BR](https://pt.quarkus.io/): Documentação oficial do framework Quarkus em português mantido pela comunidade Brasileira.
-  
-
 ## Artigos
 
-  * 
+  * [Quarkus, o SuperSONIC que não é da SEGA](https://www.linkedin.com/pulse/quarkus-o-supersonic-que-n%25C3%25A3o-%25C3%25A9-da-sega-andr%25C3%25A9-valverde-gfwjf/): Um artigo introdutório sobre Quarkus, em português.
 
 ## Canais no Youtube
 
